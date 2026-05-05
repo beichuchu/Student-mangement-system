@@ -1,0 +1,16 @@
+# 前后端依赖目录
+student-management/node_modules/
+student-management-backend/node_modules/
+
+# IDE 配置文件
+.idea/
+*.iml
+.vscode/
+
+# 构建产物
+dist/
+build/
+*.log
+.env
+.DS_Store
+Thumbs.db
